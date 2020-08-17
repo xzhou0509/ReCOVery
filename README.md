@@ -4,6 +4,11 @@
 
 ***The latest dataset paper with detailed analysis on the dataset can be found at [here](https://www.researchgate.net/publication/342093948_ReCOVery_A_Multimodal_Repository_for_COVID-19_News_Credibility_Research)***
 
+***Note:*** The final version of the paper will be available soon! The link will be added once it is available.
+
+The final version of the paper contains new baselines and the code is available in [`code/Baselines`](https://github.com/apurvamulay/ReCOVery/tree/master/code/Baselines).  
+
+
 This is the first version of the dataset and will be updated timely.
 
 ## Overview  
@@ -70,5 +75,8 @@ If you are using this dataset, please cite the following paper:
   year={2020}
 }
 ~~~~
+
+## Contact
+Please contact zhouxinyi@data.syr.edu if you have any question on the paper, data or the code.
 
 
